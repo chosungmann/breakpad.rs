@@ -1,7 +1,9 @@
 [package]
+authors = ["Sungmann Cho <sungmann.cho@gmail.com>"]
 description = "Breakpad for Rust"
+documentation = "https://docs.rs/breakpad-rs"
 edition = "2021"
-license-file = "LICENSE"
+license = "MIT"
 name = "breakpad-rs"
 readme = "README.md"
 repository = "https://github.com/chosungmann/breakpad.rs"
