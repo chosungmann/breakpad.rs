@@ -12,7 +12,7 @@ version = "0.1.0"
 [build-dependencies]
 autocxx-build = "0.27.0"
 autocxx-engine = "0.27.0"
-miette = { version = "7.2.0", features = ["fancy"] }
+miette = { version = "5", features = ["fancy"] }
 
 [dependencies]
 autocxx = "0.27.0"
