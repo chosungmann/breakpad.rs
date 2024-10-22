@@ -1,6 +1,10 @@
 [package]
+description = "Breakpad for Rust"
 edition = "2021"
+license-file = "LICENSE"
 name = "breakpad-rs"
+readme = "README.md"
+repository = "https://github.com/chosungmann/breakpad.rs"
 version = "0.1.0"
 
 [build-dependencies]
