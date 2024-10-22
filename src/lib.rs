@@ -1,3 +1,5 @@
+#![doc = include_str!("../README.md")]
+
 use autocxx::subclass::prelude::*;
 use ffi::ToCppString;
 
